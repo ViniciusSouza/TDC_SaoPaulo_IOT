@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="mobile$iot-tdc-2014" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\visouza\.SOUTHAMERICA\\Documents\\Projeto\\TDC_SaoPaulo_IoT\\TDCSPMobileService\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\visouza\.SOUTHAMERICA\\Documents\\Projeto\\TDC_SaoPaulo_IoT\\TDCSPMobileService\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MS_TableConnectionString-Web.config Connection String" description="" value="Data Source=(localdb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-TDCSPMobileService-20140721044636.mdf;Initial Catalog=aspnet-TDCSPMobileService-20140721044636;Integrated Security=True;MultipleActiveResultSets=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\visouza\.SOUTHAMERICA\\Documents\\Projeto\\TDC_SaoPaulo_IoT\\TDCSPMobileService\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_TableConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

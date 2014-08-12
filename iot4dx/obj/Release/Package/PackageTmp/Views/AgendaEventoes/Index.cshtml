@@ -1,0 +1,121 @@
+﻿@model IEnumerable<iot4dx.DataObjects.AgendaEvento>
+
+@{
+    ViewBag.Title = "Palestras Microsoft";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Nova Palestra", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Palestrante)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.MiniBioPalestrante)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UrlSitePalestrante)
+        </th>*@
+        @*<th>
+            @Html.DisplayNameFor(model => model.TwitterPalestrante)
+        </th>*@
+        @*<th>
+            @Html.DisplayNameFor(model => model.UrlFotoPalestrante)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Trilha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.HoraInicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HoraTermino)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.CreatedAt)
+        </th>*@
+        @*<th>
+            @Html.DisplayNameFor(model => model.Deleted)
+        </th>*@
+        @*<th>
+            @Html.DisplayNameFor(model => model.UpdatedAt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Version)
+        </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Data, "dd/MM/yyyy")
+        </td>
+        <td>
+            <img alt="@Html.DisplayFor(modelItem => item.Palestrante)" src="@Html.DisplayFor(modelItem => item.UrlFotoPalestrante)" /><br/>
+            @Html.DisplayFor(modelItem => item.Palestrante)<br/>
+            @Html.DisplayFor(modelItem => item.TwitterPalestrante)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.MiniBioPalestrante)
+        </td>*@
+        @*<td>
+            @Html.DisplayFor(modelItem => item.UrlSitePalestrante)
+        </td>*@
+        @*<td>
+            @Html.DisplayFor(modelItem => item.TwitterPalestrante)
+        </td>*@
+        @*<td>
+            @Html.DisplayFor(modelItem => item.UrlFotoPalestrante)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Trilha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Titulo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.HoraInicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HoraTermino)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.CreatedAt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Deleted)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UpdatedAt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Version)
+        </td>*@
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

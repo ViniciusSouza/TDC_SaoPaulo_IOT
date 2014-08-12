@@ -1,0 +1,124 @@
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP.pdb
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\AppManifest.xaml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP_Debug_AnyCPU.xap
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Newtonsoft.Json.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Extensions.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Primitives.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\Newtonsoft.Json.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Extensions.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Primitives.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.csprojResolveAssemblyReference.cache
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\App.g.cs
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\MainPage.g.cs
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.g.resources
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.Resources.AppResources.resources
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.csproj.GenerateResource.Cache
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.pdb
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Debug\XapCacheFile.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\en-US\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\pt-BR\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\AppManifest.xaml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP_Debug_AnyCPU.xap
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\App.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\MainPage.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.g.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.Resources.AppResources.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.Resources.AppResources.en-US.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.Resources.AppResources.pt-BR.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.csproj.GenerateResource.Cache
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\en-US\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\pt-BR\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\XapCacheFile.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\View\AgendaLista.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.csprojResolveAssemblyReference.cache
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Hammock.WindowsPhone.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\Hammock.WindowsPhone.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\en-US\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\pt-BR\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\AppManifest.xaml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\TDC2014WP_Debug_AnyCPU.xap
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Hammock.WindowsPhone.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Hammock.WindowsPhone.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.csprojResolveAssemblyReference.cache
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\App.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\MainPage.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\View\AgendaLista.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.g.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.Resources.AppResources.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.Resources.AppResources.en-US.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.Resources.AppResources.pt-BR.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.csproj.GenerateResource.Cache
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\en-US\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\pt-BR\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\TDC2014WP.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\GitTDCColorChanger\TDC2014WP\TDC2014WP\obj\Debug\XapCacheFile.xml

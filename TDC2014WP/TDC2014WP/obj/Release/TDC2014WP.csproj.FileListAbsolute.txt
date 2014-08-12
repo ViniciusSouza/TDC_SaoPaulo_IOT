@@ -1,0 +1,84 @@
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Assets\ApplicationIcon.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\IconicTileSmall.png
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\TDC2014WP.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\TDC2014WP.pdb
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\AppManifest.xaml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Properties\WMAppManifest.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\TDC2014WP_Release_AnyCPU.xap
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.UI.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Newtonsoft.Json.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.Extensions.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.Primitives.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.UI.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\Newtonsoft.Json.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.Extensions.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.Primitives.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\App.g.cs
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\MainPage.g.cs
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.g.resources
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.Resources.AppResources.resources
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.csproj.GenerateResource.Cache
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.pdb
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\XapCacheFile.xml
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\en-US\TDC2014WP.resources.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\Bin\Release\pt-BR\TDC2014WP.resources.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.Resources.AppResources.en-US.resources
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.Resources.AppResources.pt-BR.resources
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\en-US\TDC2014WP.resources.dll
+c:\users\maluz\documents\visual studio 2013\Projects\TDC2014WP\TDC2014WP\obj\Release\pt-BR\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\TDC2014WP.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\TDC2014WP.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\en-US\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\pt-BR\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\AppManifest.xaml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\TDC2014WP_Release_AnyCPU.xap
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Hammock.WindowsPhone.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\ICSharpCode.SharpZipLib.WindowsPhone.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Newtonsoft.Json.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Hammock.WindowsPhone.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\ICSharpCode.SharpZipLib.WindowsPhone.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\Newtonsoft.Json.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\App.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\MainPage.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\View\AgendaLista.g.cs
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.g.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.Resources.AppResources.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.Resources.AppResources.en-US.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.Resources.AppResources.pt-BR.resources
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.csproj.GenerateResource.Cache
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\en-US\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\pt-BR\TDC2014WP.resources.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.dll
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.pdb
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\XapCacheFile.xml
+C:\Users\visouza.SOUTHAMERICA\Documents\Projeto\TDC_SaoPaulo_IoT\TDC2014WP\TDC2014WP\obj\Release\TDC2014WP.csprojResolveAssemblyReference.cache

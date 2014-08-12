@@ -1,0 +1,138 @@
+﻿@model iot4dx.DataObjects.AgendaEvento
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AgendaEvento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Palestrante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Palestrante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MiniBioPalestrante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MiniBioPalestrante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrlSitePalestrante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrlSitePalestrante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TwitterPalestrante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TwitterPalestrante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrlFotoPalestrante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrlFotoPalestrante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Trilha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Trilha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HoraInicio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoraInicio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HoraTermino)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoraTermino)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedAt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedAt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Deleted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Deleted)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UpdatedAt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UpdatedAt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Version)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Version)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

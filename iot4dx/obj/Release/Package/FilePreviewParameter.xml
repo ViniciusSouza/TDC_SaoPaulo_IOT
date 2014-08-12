@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="iot4dx" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\visouza\.SOUTHAMERICA\\Documents\\Projeto\\TDC_SaoPaulo_IoT\\iot4dx\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\visouza\.SOUTHAMERICA\\Documents\\Projeto\\TDC_SaoPaulo_IoT\\iot4dx\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=v0z8z24zje.database.windows.net;Initial Catalog=iot-tdc-2014_db;User ID=iot_tdc;Password=SaoPaulo!2014;Asynchronous Processing=True;TrustServerCertificate=False" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\visouza\.SOUTHAMERICA\\Documents\\Projeto\\TDC_SaoPaulo_IoT\\iot4dx\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="MobileServiceDbContext-Web.config Connection String" description="" value="Data Source=v0z8z24zje.database.windows.net;Initial Catalog=iot-tdc-2014_db;User ID=iot_tdc;Password=SaoPaulo!2014;Asynchronous Processing=True;TrustServerCertificate=False" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\visouza\.SOUTHAMERICA\\Documents\\Projeto\\TDC_SaoPaulo_IoT\\iot4dx\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MobileServiceDbContext']/@connectionString" />
+  </parameter>
+</parameters>
