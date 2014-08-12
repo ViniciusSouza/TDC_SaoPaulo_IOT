@@ -3,19 +3,26 @@ TDC_SaoPaulo_IOT
 
 This project was originally designed for the event The Developer Conference - TDC 2014 of São Paulo.
 
+Tools Prerequisite
 
 The inteire solution is composed by 4 projects, 3 of then was developed using Visual Studio 2013 and one using Visual Studio 2012.
 
-Tools Prerequisite
+
 Visual Studio 2013:
 iot4dx
+
 TDC2014WP
+
 TDCSPMobileService
 
+
 Visual Studio 2012 (With NetDuino plugin Installed)
+
 TdcIotColorChanger 
 
+
 Prerequisites:
+
 To execute the project you will need a NetDuino Hardware with the following components.
 
 
