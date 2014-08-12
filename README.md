@@ -24,7 +24,9 @@ The web part of this project was hosted using a Microsoft Azure Trial Account, y
 If you already have a Microsoft Azure you can use it..
 
 In Azure you will need:
+
 1) A Website to host the iot4dx project.
+
 2) A MobileService using C# backend to host TDCSPMobileService project.
 
 The website can be deployed using a the free tier, for testing propouse... But in product change it to basic, at least!
