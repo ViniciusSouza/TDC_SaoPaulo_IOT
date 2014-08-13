@@ -1,6 +1,9 @@
 TDC_SaoPaulo_IOT
 ================
 
+https://www.youtube.com/watch?v=Uu51yMC1EIo
+
+
 This project was originally designed for the event The Developer Conference - TDC 2014 of São Paulo.
 
 Tools Prerequisite
